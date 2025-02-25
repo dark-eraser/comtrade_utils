@@ -1,0 +1,1322 @@
+[
+    {
+        "Country Name": "Afghanistan",
+        "ISO3": "AFG",
+        "Code": "004"
+    },
+    {
+        "Country Name": "Albania",
+        "ISO3": "ALB",
+        "Code": "008"
+    },
+    {
+        "Country Name": "Algeria",
+        "ISO3": "DZA",
+        "Code": "012"
+    },
+    {
+        "Country Name": "American Samoa",
+        "ISO3": "ASM",
+        "Code": "016"
+    },
+    {
+        "Country Name": "Andorra",
+        "ISO3": "AND",
+        "Code": "020"
+    },
+    {
+        "Country Name": "Angola",
+        "ISO3": "AGO",
+        "Code": "024"
+    },
+    {
+        "Country Name": "Anguila",
+        "ISO3": "AIA",
+        "Code": "660"
+    },
+    {
+        "Country Name": "Antigua and Barbuda",
+        "ISO3": "ATG",
+        "Code": "028"
+    },
+    {
+        "Country Name": "Argentina",
+        "ISO3": "ARG",
+        "Code": "032"
+    },
+    {
+        "Country Name": "Armenia",
+        "ISO3": "ARM",
+        "Code": "051"
+    },
+    {
+        "Country Name": "Aruba",
+        "ISO3": "ABW",
+        "Code": "533"
+    },
+    {
+        "Country Name": "Australia",
+        "ISO3": "AUS",
+        "Code": "036"
+    },
+    {
+        "Country Name": "Austria",
+        "ISO3": "AUT",
+        "Code": "040"
+    },
+    {
+        "Country Name": "Azerbaijan",
+        "ISO3": "AZE",
+        "Code": "031"
+    },
+    {
+        "Country Name": "Bahamas, The",
+        "ISO3": "BHS",
+        "Code": "044"
+    },
+    {
+        "Country Name": "Bahrain",
+        "ISO3": "BHR",
+        "Code": "048"
+    },
+    {
+        "Country Name": "Bangladesh",
+        "ISO3": "BGD",
+        "Code": "050"
+    },
+    {
+        "Country Name": "Barbados",
+        "ISO3": "BRB",
+        "Code": "052"
+    },
+    {
+        "Country Name": "Belarus",
+        "ISO3": "BLR",
+        "Code": "112"
+    },
+    {
+        "Country Name": "Belgium",
+        "ISO3": "BEL",
+        "Code": "056"
+    },
+    {
+        "Country Name": "Belgium-Luxembourg",
+        "ISO3": "BLX",
+        "Code": "058"
+    },
+    {
+        "Country Name": "Belize",
+        "ISO3": "BLZ",
+        "Code": "084"
+    },
+    {
+        "Country Name": "Benin",
+        "ISO3": "BEN",
+        "Code": "204"
+    },
+    {
+        "Country Name": "Bermuda",
+        "ISO3": "BMU",
+        "Code": "060"
+    },
+    {
+        "Country Name": "Bhutan",
+        "ISO3": "BTN",
+        "Code": "064"
+    },
+    {
+        "Country Name": "Bolivia",
+        "ISO3": "BOL",
+        "Code": "068"
+    },
+    {
+        "Country Name": "Bosnia and Herzegovina",
+        "ISO3": "BIH",
+        "Code": "070"
+    },
+    {
+        "Country Name": "Botswana",
+        "ISO3": "BWA",
+        "Code": "072"
+    },
+    {
+        "Country Name": "Br. Antr. Terr",
+        "ISO3": "BAT",
+        "Code": "080"
+    },
+    {
+        "Country Name": "Brazil",
+        "ISO3": "BRA",
+        "Code": "076"
+    },
+    {
+        "Country Name": "British Indian Ocean Ter.",
+        "ISO3": "IOT",
+        "Code": "086"
+    },
+    {
+        "Country Name": "British Virgin Islands",
+        "ISO3": "VGB",
+        "Code": "092"
+    },
+    {
+        "Country Name": "Brunei",
+        "ISO3": "BRN",
+        "Code": "096"
+    },
+    {
+        "Country Name": "Bulgaria",
+        "ISO3": "BGR",
+        "Code": "100"
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "ISO3": "BFA",
+        "Code": "854"
+    },
+    {
+        "Country Name": "Burundi",
+        "ISO3": "BDI",
+        "Code": "108"
+    },
+    {
+        "Country Name": "Cambodia",
+        "ISO3": "KHM",
+        "Code": "116"
+    },
+    {
+        "Country Name": "Cameroon",
+        "ISO3": "CMR",
+        "Code": "120"
+    },
+    {
+        "Country Name": "Canada",
+        "ISO3": "CAN",
+        "Code": "124"
+    },
+    {
+        "Country Name": "Cape Verde",
+        "ISO3": "CPV",
+        "Code": "132"
+    },
+    {
+        "Country Name": "Cayman Islands",
+        "ISO3": "CYM",
+        "Code": "136"
+    },
+    {
+        "Country Name": "Central African Republic",
+        "ISO3": "CAF",
+        "Code": "140"
+    },
+    {
+        "Country Name": "Chad",
+        "ISO3": "TCD",
+        "Code": "148"
+    },
+    {
+        "Country Name": "Chile",
+        "ISO3": "CHL",
+        "Code": "152"
+    },
+    {
+        "Country Name": "China",
+        "ISO3": "CHN",
+        "Code": "156"
+    },
+    {
+        "Country Name": "Christmas Island",
+        "ISO3": "CXR",
+        "Code": "162"
+    },
+    {
+        "Country Name": "Cocos (Keeling) Islands",
+        "ISO3": "CCK",
+        "Code": "166"
+    },
+    {
+        "Country Name": "Colombia",
+        "ISO3": "COL",
+        "Code": "170"
+    },
+    {
+        "Country Name": "Comoros",
+        "ISO3": "COM",
+        "Code": "174"
+    },
+    {
+        "Country Name": "Congo, Dem. Rep.",
+        "ISO3": "ZAR",
+        "Code": "180"
+    },
+    {
+        "Country Name": "Congo, Rep.",
+        "ISO3": "COG",
+        "Code": "178"
+    },
+    {
+        "Country Name": "Cook Islands",
+        "ISO3": "COK",
+        "Code": "184"
+    },
+    {
+        "Country Name": "Costa Rica",
+        "ISO3": "CRI",
+        "Code": "188"
+    },
+    {
+        "Country Name": "Cote d'Ivoire",
+        "ISO3": "CIV",
+        "Code": "384"
+    },
+    {
+        "Country Name": "Croatia",
+        "ISO3": "HRV",
+        "Code": "191"
+    },
+    {
+        "Country Name": "Cuba",
+        "ISO3": "CUB",
+        "Code": "192"
+    },
+    {
+        "Country Name": "Cyprus",
+        "ISO3": "CYP",
+        "Code": "196"
+    },
+    {
+        "Country Name": "Czech Republic",
+        "ISO3": "CZE",
+        "Code": "203"
+    },
+    {
+        "Country Name": "Czechoslovakia",
+        "ISO3": "CSK",
+        "Code": "200"
+    },
+    {
+        "Country Name": "Denmark",
+        "ISO3": "DNK",
+        "Code": "208"
+    },
+    {
+        "Country Name": "Djibouti",
+        "ISO3": "DJI",
+        "Code": "262"
+    },
+    {
+        "Country Name": "Dominica",
+        "ISO3": "DMA",
+        "Code": "212"
+    },
+    {
+        "Country Name": "Dominican Republic",
+        "ISO3": "DOM",
+        "Code": "214"
+    },
+    {
+        "Country Name": "East Timor",
+        "ISO3": "TMP",
+        "Code": "626"
+    },
+    {
+        "Country Name": "Ecuador",
+        "ISO3": "ECU",
+        "Code": "218"
+    },
+    {
+        "Country Name": "Egypt, Arab Rep.",
+        "ISO3": "EGY",
+        "Code": "818"
+    },
+    {
+        "Country Name": "El Salvador",
+        "ISO3": "SLV",
+        "Code": "222"
+    },
+    {
+        "Country Name": "Equatorial Guinea",
+        "ISO3": "GNQ",
+        "Code": "226"
+    },
+    {
+        "Country Name": "Eritrea",
+        "ISO3": "ERI",
+        "Code": "232"
+    },
+    {
+        "Country Name": "Estonia",
+        "ISO3": "EST",
+        "Code": "233"
+    },
+    {
+        "Country Name": "Ethiopia (excludes Eritrea)",
+        "ISO3": "ETH",
+        "Code": "231"
+    },
+    {
+        "Country Name": "Ethiopia (includes Eritrea)",
+        "ISO3": "ETF",
+        "Code": "230"
+    },
+    {
+        "Country Name": "European Union",
+        "ISO3": "EUN",
+        "Code": "918"
+    },
+    {
+        "Country Name": "Faeroe Islands",
+        "ISO3": "FRO",
+        "Code": "234"
+    },
+    {
+        "Country Name": "Falkland Island",
+        "ISO3": "FLK",
+        "Code": "238"
+    },
+    {
+        "Country Name": "Fiji",
+        "ISO3": "FJI",
+        "Code": "242"
+    },
+    {
+        "Country Name": "Finland",
+        "ISO3": "FIN",
+        "Code": "246"
+    },
+    {
+        "Country Name": "Fm Panama Cz",
+        "ISO3": "PCZ",
+        "Code": "592"
+    },
+    {
+        "Country Name": "Fm Rhod Nyas",
+        "ISO3": "ZW1",
+        "Code": "717"
+    },
+    {
+        "Country Name": "Fm Tanganyik",
+        "ISO3": "TAN",
+        "Code": "835"
+    },
+    {
+        "Country Name": "Fm Vietnam Dr",
+        "ISO3": "VDR",
+        "Code": "868"
+    },
+    {
+        "Country Name": "Fm Vietnam Rp",
+        "ISO3": "SVR",
+        "Code": "866"
+    },
+    {
+        "Country Name": "Fm Zanz-Pemb",
+        "ISO3": "ZPM",
+        "Code": "836"
+    },
+    {
+        "Country Name": "Fr. So. Ant. Tr",
+        "ISO3": "ATF",
+        "Code": "260"
+    },
+    {
+        "Country Name": "France",
+        "ISO3": "FRA",
+        "Code": "250"
+    },
+    {
+        "Country Name": "Free Zones",
+        "ISO3": "FRE",
+        "Code": "838"
+    },
+    {
+        "Country Name": "French Guiana",
+        "ISO3": "GUF",
+        "Code": "254"
+    },
+    {
+        "Country Name": "French Polynesia",
+        "ISO3": "PYF",
+        "Code": "258"
+    },
+    {
+        "Country Name": "Gabon",
+        "ISO3": "GAB",
+        "Code": "266"
+    },
+    {
+        "Country Name": "Gambia, The",
+        "ISO3": "GMB",
+        "Code": "270"
+    },
+    {
+        "Country Name": "Gaza Strip",
+        "ISO3": "GAZ",
+        "Code": "274"
+    },
+    {
+        "Country Name": "Georgia",
+        "ISO3": "GEO",
+        "Code": "268"
+    },
+    {
+        "Country Name": "German Democratic Republic",
+        "ISO3": "DDR",
+        "Code": "278"
+    },
+    {
+        "Country Name": "Germany",
+        "ISO3": "DEU",
+        "Code": "276"
+    },
+    {
+        "Country Name": "Ghana",
+        "ISO3": "GHA",
+        "Code": "288"
+    },
+    {
+        "Country Name": "Gibraltar",
+        "ISO3": "GIB",
+        "Code": "292"
+    },
+    {
+        "Country Name": "Greece",
+        "ISO3": "GRC",
+        "Code": "300"
+    },
+    {
+        "Country Name": "Greenland",
+        "ISO3": "GRL",
+        "Code": "304"
+    },
+    {
+        "Country Name": "Grenada",
+        "ISO3": "GRD",
+        "Code": "308"
+    },
+    {
+        "Country Name": "Guadeloupe",
+        "ISO3": "GLP",
+        "Code": "312"
+    },
+    {
+        "Country Name": "Guam",
+        "ISO3": "GUM",
+        "Code": "316"
+    },
+    {
+        "Country Name": "Guatemala",
+        "ISO3": "GTM",
+        "Code": "320"
+    },
+    {
+        "Country Name": "Guinea",
+        "ISO3": "GIN",
+        "Code": "324"
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "ISO3": "GNB",
+        "Code": "624"
+    },
+    {
+        "Country Name": "Guyana",
+        "ISO3": "GUY",
+        "Code": "328"
+    },
+    {
+        "Country Name": "Haiti",
+        "ISO3": "HTI",
+        "Code": "332"
+    },
+    {
+        "Country Name": "Holy See",
+        "ISO3": "VAT",
+        "Code": "336"
+    },
+    {
+        "Country Name": "Honduras",
+        "ISO3": "HND",
+        "Code": "340"
+    },
+    {
+        "Country Name": "Hong Kong, China",
+        "ISO3": "HKG",
+        "Code": "344"
+    },
+    {
+        "Country Name": "Hungary",
+        "ISO3": "HUN",
+        "Code": "348"
+    },
+    {
+        "Country Name": "Iceland",
+        "ISO3": "ISL",
+        "Code": "352"
+    },
+    {
+        "Country Name": "India",
+        "ISO3": "IND",
+        "Code": "356"
+    },
+    {
+        "Country Name": "Indonesia",
+        "ISO3": "IDN",
+        "Code": "360"
+    },
+    {
+        "Country Name": "Iran, Islamic Rep.",
+        "ISO3": "IRN",
+        "Code": "364"
+    },
+    {
+        "Country Name": "Iraq",
+        "ISO3": "IRQ",
+        "Code": "368"
+    },
+    {
+        "Country Name": "Ireland",
+        "ISO3": "IRL",
+        "Code": "372"
+    },
+    {
+        "Country Name": "Israel",
+        "ISO3": "ISR",
+        "Code": "376"
+    },
+    {
+        "Country Name": "Italy",
+        "ISO3": "ITA",
+        "Code": "380"
+    },
+    {
+        "Country Name": "Jamaica",
+        "ISO3": "JAM",
+        "Code": "388"
+    },
+    {
+        "Country Name": "Japan",
+        "ISO3": "JPN",
+        "Code": "392"
+    },
+    {
+        "Country Name": "Jhonston Island",
+        "ISO3": "JTN",
+        "Code": "396"
+    },
+    {
+        "Country Name": "Jordan",
+        "ISO3": "JOR",
+        "Code": "400"
+    },
+    {
+        "Country Name": "Kazakhstan",
+        "ISO3": "KAZ",
+        "Code": "398"
+    },
+    {
+        "Country Name": "Kenya",
+        "ISO3": "KEN",
+        "Code": "404"
+    },
+    {
+        "Country Name": "Kiribati",
+        "ISO3": "KIR",
+        "Code": "296"
+    },
+    {
+        "Country Name": "Korea, Dem. Rep.",
+        "ISO3": "PRK",
+        "Code": "408"
+    },
+    {
+        "Country Name": "Korea, Rep.",
+        "ISO3": "KOR",
+        "Code": "410"
+    },
+    {
+        "Country Name": "Kuwait",
+        "ISO3": "KWT",
+        "Code": "414"
+    },
+    {
+        "Country Name": "Kyrgyz Republic",
+        "ISO3": "KGZ",
+        "Code": "417"
+    },
+    {
+        "Country Name": "Lao PDR",
+        "ISO3": "LAO",
+        "Code": "418"
+    },
+    {
+        "Country Name": "Latvia",
+        "ISO3": "LVA",
+        "Code": "428"
+    },
+    {
+        "Country Name": "Lebanon",
+        "ISO3": "LBN",
+        "Code": "422"
+    },
+    {
+        "Country Name": "Lesotho",
+        "ISO3": "LSO",
+        "Code": "426"
+    },
+    {
+        "Country Name": "Liberia",
+        "ISO3": "LBR",
+        "Code": "430"
+    },
+    {
+        "Country Name": "Libya",
+        "ISO3": "LBY",
+        "Code": "434"
+    },
+    {
+        "Country Name": "Liechtenstein",
+        "ISO3": "LIE",
+        "Code": "438"
+    },
+    {
+        "Country Name": "Lithuania",
+        "ISO3": "LTU",
+        "Code": "440"
+    },
+    {
+        "Country Name": "Luxembourg",
+        "ISO3": "LUX",
+        "Code": "442"
+    },
+    {
+        "Country Name": "Macao",
+        "ISO3": "MAC",
+        "Code": "446"
+    },
+    {
+        "Country Name": "Macedonia, FYR",
+        "ISO3": "MKD",
+        "Code": "807"
+    },
+    {
+        "Country Name": "Madagascar",
+        "ISO3": "MDG",
+        "Code": "450"
+    },
+    {
+        "Country Name": "Malawi",
+        "ISO3": "MWI",
+        "Code": "454"
+    },
+    {
+        "Country Name": "Malaysia",
+        "ISO3": "MYS",
+        "Code": "458"
+    },
+    {
+        "Country Name": "Maldives",
+        "ISO3": "MDV",
+        "Code": "462"
+    },
+    {
+        "Country Name": "Mali",
+        "ISO3": "MLI",
+        "Code": "466"
+    },
+    {
+        "Country Name": "Malta",
+        "ISO3": "MLT",
+        "Code": "470"
+    },
+    {
+        "Country Name": "Marshall Islands",
+        "ISO3": "MHL",
+        "Code": "584"
+    },
+    {
+        "Country Name": "Martinique",
+        "ISO3": "MTQ",
+        "Code": "474"
+    },
+    {
+        "Country Name": "Mauritania",
+        "ISO3": "MRT",
+        "Code": "478"
+    },
+    {
+        "Country Name": "Mauritius",
+        "ISO3": "MUS",
+        "Code": "480"
+    },
+    {
+        "Country Name": "Mexico",
+        "ISO3": "MEX",
+        "Code": "484"
+    },
+    {
+        "Country Name": "Micronesia, Fed. Sts.",
+        "ISO3": "FSM",
+        "Code": "583"
+    },
+    {
+        "Country Name": "Midway Islands",
+        "ISO3": "MID",
+        "Code": "488"
+    },
+    {
+        "Country Name": "Moldova",
+        "ISO3": "MDA",
+        "Code": "498"
+    },
+    {
+        "Country Name": "Monaco",
+        "ISO3": "MCO",
+        "Code": "492"
+    },
+    {
+        "Country Name": "Mongolia",
+        "ISO3": "MNG",
+        "Code": "496"
+    },
+    {
+        "Country Name": "Montserrat",
+        "ISO3": "MSR",
+        "Code": "500"
+    },
+    {
+        "Country Name": "Morocco",
+        "ISO3": "MAR",
+        "Code": "504"
+    },
+    {
+        "Country Name": "Mozambique",
+        "ISO3": "MOZ",
+        "Code": "508"
+    },
+    {
+        "Country Name": "Myanmar",
+        "ISO3": "MMR",
+        "Code": "104"
+    },
+    {
+        "Country Name": "Namibia",
+        "ISO3": "NAM",
+        "Code": "516"
+    },
+    {
+        "Country Name": "Nauru",
+        "ISO3": "NRU",
+        "Code": "520"
+    },
+    {
+        "Country Name": "Nepal",
+        "ISO3": "NPL",
+        "Code": "524"
+    },
+    {
+        "Country Name": "Netherlands",
+        "ISO3": "NLD",
+        "Code": "528"
+    },
+    {
+        "Country Name": "Netherlands Antilles",
+        "ISO3": "ANT",
+        "Code": "530"
+    },
+    {
+        "Country Name": "Neutral Zone",
+        "ISO3": "NZE",
+        "Code": "536"
+    },
+    {
+        "Country Name": "New Caledonia",
+        "ISO3": "NCL",
+        "Code": "540"
+    },
+    {
+        "Country Name": "New Zealand",
+        "ISO3": "NZL",
+        "Code": "554"
+    },
+    {
+        "Country Name": "Nicaragua",
+        "ISO3": "NIC",
+        "Code": "558"
+    },
+    {
+        "Country Name": "Niger",
+        "ISO3": "NER",
+        "Code": "562"
+    },
+    {
+        "Country Name": "Nigeria",
+        "ISO3": "NGA",
+        "Code": "566"
+    },
+    {
+        "Country Name": "Niue",
+        "ISO3": "NIU",
+        "Code": "570"
+    },
+    {
+        "Country Name": "Norfolk Island",
+        "ISO3": "NFK",
+        "Code": "574"
+    },
+    {
+        "Country Name": "Northern Mariana Islands",
+        "ISO3": "MNP",
+        "Code": "580"
+    },
+    {
+        "Country Name": "Norway",
+        "ISO3": "NOR",
+        "Code": "578"
+    },
+    {
+        "Country Name": "Oman",
+        "ISO3": "OMN",
+        "Code": "512"
+    },
+    {
+        "Country Name": "Pacific Islands",
+        "ISO3": "PCE",
+        "Code": "582"
+    },
+    {
+        "Country Name": "Pakistan",
+        "ISO3": "PAK",
+        "Code": "586"
+    },
+    {
+        "Country Name": "Palau",
+        "ISO3": "PLW",
+        "Code": "585"
+    },
+    {
+        "Country Name": "Panama",
+        "ISO3": "PAN",
+        "Code": "591"
+    },
+    {
+        "Country Name": "Papua New Guinea",
+        "ISO3": "PNG",
+        "Code": "598"
+    },
+    {
+        "Country Name": "Paraguay",
+        "ISO3": "PRY",
+        "Code": "600"
+    },
+    {
+        "Country Name": "Pen Malaysia",
+        "ISO3": "PMY",
+        "Code": "459"
+    },
+    {
+        "Country Name": "Peru",
+        "ISO3": "PER",
+        "Code": "604"
+    },
+    {
+        "Country Name": "Philippines",
+        "ISO3": "PHL",
+        "Code": "608"
+    },
+    {
+        "Country Name": "Pitcairn",
+        "ISO3": "PCN",
+        "Code": "612"
+    },
+    {
+        "Country Name": "Poland",
+        "ISO3": "POL",
+        "Code": "616"
+    },
+    {
+        "Country Name": "Portugal",
+        "ISO3": "PRT",
+        "Code": "620"
+    },
+    {
+        "Country Name": "Puerto Rico",
+        "ISO3": "PRI",
+        "Code": "630"
+    },
+    {
+        "Country Name": "Qatar",
+        "ISO3": "QAT",
+        "Code": "634"
+    },
+    {
+        "Country Name": "Reunion",
+        "ISO3": "REU",
+        "Code": "638"
+    },
+    {
+        "Country Name": "Romania",
+        "ISO3": "ROM",
+        "Code": "642"
+    },
+    {
+        "Country Name": "Russian Federation",
+        "ISO3": "RUS",
+        "Code": "643"
+    },
+    {
+        "Country Name": "Rwanda",
+        "ISO3": "RWA",
+        "Code": "646"
+    },
+    {
+        "Country Name": "Ryukyu Is",
+        "ISO3": "RYU",
+        "Code": "647"
+    },
+    {
+        "Country Name": "Sabah",
+        "ISO3": "SBH",
+        "Code": "461"
+    },
+    {
+        "Country Name": "Saint Helena",
+        "ISO3": "SHN",
+        "Code": "654"
+    },
+    {
+        "Country Name": "Saint Kitts-Nevis-Anguilla-Aru",
+        "ISO3": "KN1",
+        "Code": "658"
+    },
+    {
+        "Country Name": "Saint Pierre and Miquelon",
+        "ISO3": "SPM",
+        "Code": "666"
+    },
+    {
+        "Country Name": "Samoa",
+        "ISO3": "WSM",
+        "Code": "882"
+    },
+    {
+        "Country Name": "San Marino",
+        "ISO3": "SMR",
+        "Code": "674"
+    },
+    {
+        "Country Name": "Sao Tome and Principe",
+        "ISO3": "STP",
+        "Code": "678"
+    },
+    {
+        "Country Name": "Sarawak",
+        "ISO3": "SWK",
+        "Code": "457"
+    },
+    {
+        "Country Name": "Saudi Arabia",
+        "ISO3": "SAU",
+        "Code": "682"
+    },
+    {
+        "Country Name": "Senegal",
+        "ISO3": "SEN",
+        "Code": "686"
+    },
+    {
+        "Country Name": "Seychelles",
+        "ISO3": "SYC",
+        "Code": "690"
+    },
+    {
+        "Country Name": "Sierra Leone",
+        "ISO3": "SLE",
+        "Code": "694"
+    },
+    {
+        "Country Name": "SIKKIM",
+        "ISO3": "SIK",
+        "Code": "698"
+    },
+    {
+        "Country Name": "Singapore",
+        "ISO3": "SGP",
+        "Code": "702"
+    },
+    {
+        "Country Name": "Slovak Republic",
+        "ISO3": "SVK",
+        "Code": "703"
+    },
+    {
+        "Country Name": "Slovenia",
+        "ISO3": "SVN",
+        "Code": "705"
+    },
+    {
+        "Country Name": "Solomon Islands",
+        "ISO3": "SLB",
+        "Code": "090"
+    },
+    {
+        "Country Name": "Somalia",
+        "ISO3": "SOM",
+        "Code": "706"
+    },
+    {
+        "Country Name": "South Africa",
+        "ISO3": "ZAF",
+        "Code": "710"
+    },
+    {
+        "Country Name": "Soviet Union",
+        "ISO3": "SVU",
+        "Code": "810"
+    },
+    {
+        "Country Name": "Spain",
+        "ISO3": "ESP",
+        "Code": "724"
+    },
+    {
+        "Country Name": "Special Categories",
+        "ISO3": "SPE",
+        "Code": "839"
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "ISO3": "LKA",
+        "Code": "144"
+    },
+    {
+        "Country Name": "St. Kitts and Nevis",
+        "ISO3": "KNA",
+        "Code": "659"
+    },
+    {
+        "Country Name": "St. Lucia",
+        "ISO3": "LCA",
+        "Code": "662"
+    },
+    {
+        "Country Name": "St. Vincent and the Grenadines",
+        "ISO3": "VCT",
+        "Code": "670"
+    },
+    {
+        "Country Name": "Sudan",
+        "ISO3": "SDN",
+        "Code": "736"
+    },
+    {
+        "Country Name": "Suriname",
+        "ISO3": "SUR",
+        "Code": "740"
+    },
+    {
+        "Country Name": "Svalbard and Jan Mayen Is",
+        "ISO3": "SJM",
+        "Code": "744"
+    },
+    {
+        "Country Name": "Swaziland",
+        "ISO3": "SWZ",
+        "Code": "748"
+    },
+    {
+        "Country Name": "Sweden",
+        "ISO3": "SWE",
+        "Code": "752"
+    },
+    {
+        "Country Name": "Switzerland",
+        "ISO3": "CHE",
+        "Code": "7"
+    },
+    {
+        "Country Name": "Syrian Arab Republic",
+        "ISO3": "SYR",
+        "Code": "760"
+    },
+    {
+        "Country Name": "Taiwan",
+        "ISO3": "TWN",
+        "Code": "158"
+    },
+    {
+        "Country Name": "Tajikistan",
+        "ISO3": "TJK",
+        "Code": "762"
+    },
+    {
+        "Country Name": "Tanzania",
+        "ISO3": "TZA",
+        "Code": "834"
+    },
+    {
+        "Country Name": "Thailand",
+        "ISO3": "THA",
+        "Code": "764"
+    },
+    {
+        "Country Name": "Togo",
+        "ISO3": "TGO",
+        "Code": "768"
+    },
+    {
+        "Country Name": "Tokelau",
+        "ISO3": "TKL",
+        "Code": "772"
+    },
+    {
+        "Country Name": "Tonga",
+        "ISO3": "TON",
+        "Code": "776"
+    },
+    {
+        "Country Name": "Trinidad and Tobago",
+        "ISO3": "TTO",
+        "Code": "780"
+    },
+    {
+        "Country Name": "Tunisia",
+        "ISO3": "TUN",
+        "Code": "788"
+    },
+    {
+        "Country Name": "Turkey",
+        "ISO3": "TUR",
+        "Code": "792"
+    },
+    {
+        "Country Name": "Turkmenistan",
+        "ISO3": "TKM",
+        "Code": "795"
+    },
+    {
+        "Country Name": "Turks and Caicos Isl.",
+        "ISO3": "TCA",
+        "Code": "796"
+    },
+    {
+        "Country Name": "Tuvalu",
+        "ISO3": "TUV",
+        "Code": "798"
+    },
+    {
+        "Country Name": "Uganda",
+        "ISO3": "UGA",
+        "Code": "800"
+    },
+    {
+        "Country Name": "Ukraine",
+        "ISO3": "UKR",
+        "Code": "804"
+    },
+    {
+        "Country Name": "United Arab Emirates",
+        "ISO3": "ARE",
+        "Code": "784"
+    },
+    {
+        "Country Name": "United Kingdom",
+        "ISO3": "GBR",
+        "Code": "826"
+    },
+    {
+        "Country Name": "United States",
+        "ISO3": "USA",
+        "Code": "840"
+    },
+    {
+        "Country Name": "Unspecified",
+        "ISO3": "UNS",
+        "Code": "898"
+    },
+    {
+        "Country Name": "Uruguay",
+        "ISO3": "URY",
+        "Code": "858"
+    },
+    {
+        "Country Name": "Us Msc.Pac.I",
+        "ISO3": "USP",
+        "Code": "849"
+    },
+    {
+        "Country Name": "Uzbekistan",
+        "ISO3": "UZB",
+        "Code": "860"
+    },
+    {
+        "Country Name": "Vanuatu",
+        "ISO3": "VUT",
+        "Code": "548"
+    },
+    {
+        "Country Name": "Venezuela",
+        "ISO3": "VEN",
+        "Code": "862"
+    },
+    {
+        "Country Name": "Vietnam",
+        "ISO3": "VNM",
+        "Code": "704"
+    },
+    {
+        "Country Name": "Virgin Islands (U.S.)",
+        "ISO3": "VIR",
+        "Code": "850"
+    },
+    {
+        "Country Name": "Wake Island",
+        "ISO3": "WAK",
+        "Code": "872"
+    },
+    {
+        "Country Name": "Wallis and Futura Isl.",
+        "ISO3": "WLF",
+        "Code": "876"
+    },
+    {
+        "Country Name": "Western Sahara",
+        "ISO3": "ESH",
+        "Code": "732"
+    },
+    {
+        "Country Name": "World",
+        "ISO3": "WLD",
+        "Code": "000"
+    },
+    {
+        "Country Name": "Yemen Democratic",
+        "ISO3": "YDR",
+        "Code": "720"
+    },
+    {
+        "Country Name": "Yemen, Rep.",
+        "ISO3": "YEM",
+        "Code": "887"
+    },
+    {
+        "Country Name": "Yugoslavia",
+        "ISO3": "SER",
+        "Code": "891"
+    },
+    {
+        "Country Name": "Yugoslavia, FR (Serbia/Montene",
+        "ISO3": "YUG",
+        "Code": "890"
+    },
+    {
+        "Country Name": "Zambia",
+        "ISO3": "ZMB",
+        "Code": "894"
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "ISO3": "ZWE",
+        "Code": "716"
+    }
+]
