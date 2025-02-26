@@ -170,7 +170,6 @@ def generate_monthly_periods(year):
     for _ in range(12):
         periods.append(start_date.strftime("%Y%m"))
         start_date += relativedelta(months=1)
-    print(periods)
     return periods
 
 def fetch_data_for_all_countries_yearly(countries_file, year, cmd_code, flow_code, data_dir, product_name):
@@ -244,7 +243,6 @@ def fetch_data_for_all_products(countries_file, year, cmd_code, flow_code, data_
 
 def fetch_data_for_all_products_for_country(periods, flow_code, data_dir, product_hs_nomenclature_file, country_name, country_code):
     product_codes = {}
-    count=0
     flow = 'imports' if flow_code=='M' else 'exports'
     year = periods[0][:4]
     with open(product_hs_nomenclature_file, 'r') as file:

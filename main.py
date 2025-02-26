@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 # Example usage
 if __name__ == "__main__":
     # countries_file = 'data/countries.json'
-    year = 2023  # You can change the year
+    year = 2022  # You can change the year
     # cmd_code = '01'  # Commodity code
     flow_code = 'M'  # Flow code (M for imports)
     data_dir = 'data/raw'
