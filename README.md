@@ -1,6 +1,14 @@
 # Comtrade Utils
 
 This repository contains a Python-based tool for fetching and analyzing international trade data from the UN Comtrade API. The tool automates the process of retrieving, structuring, and storing trade data for various countries and products.
+## Disclaimer 
+**The Functionality is there but it is not practical to do this to gather large amounts of information because each request takes around 1~2 seconds (per product class per country per month).**
+
+Multiplying that by the amount of the data points it would take an absurd amount of time to gather information for all countries over a large spectrum of procuts and years.
+
+### Other Difficulties
+- the API call to gather bulk data necessits a paid subscription key
+- the API option to gather annual data isntead of monthly does not work
 
 ## Features
 
